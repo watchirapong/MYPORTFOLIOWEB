@@ -95,6 +95,7 @@ ul a:hover {
     border-radius: 25px;
     padding-bottom: 10px;
     padding-top: 10px;
+
 }
 
 #contractmenav:hover {
@@ -159,8 +160,8 @@ button:hover {
     height: 90svh;
     display: flex;
     flex-direction: 10px;
-    background-image: url(/MYPORTFOLIOWEB/webdev/images/ภาพถ่ายหน้าจอ\ 2567-03-23\ เวลา\ 03.42.20.png);
-    background-size: 120rem;
+    background-image: url(/MYPORTFOLIOWEB/webdev/images/school.png);
+    background-size: cover;
     justify-content:center;
     color: #131b23;
     text-transform: uppercase;
